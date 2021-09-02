@@ -1,0 +1,19 @@
+C:\Users\Anthony\Desktop\Final Proyect\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Anthony\Desktop\Final Proyect\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Anthony\Desktop\Final Proyect\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Anthony\Desktop\Final Proyect\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Anthony\Desktop\Final Proyect\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

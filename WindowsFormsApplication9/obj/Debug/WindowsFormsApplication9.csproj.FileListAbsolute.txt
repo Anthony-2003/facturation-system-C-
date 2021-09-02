@@ -1,0 +1,538 @@
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+c:\users\anthony\documents\visual studio 2015\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form3.resources
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form3.resources
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\Anthony\Desktop\This is my program\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form3.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form7.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form8.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form9.resources
+C:\Users\Anthony\Desktop\klk\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form10.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form10.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form8.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form9.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PANTALLA.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenu.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\RdlCompile.cache
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\RdlCompile.compiled
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportProductos.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_compras.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form11.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Prueba.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaProveedor.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmpleados.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AñadirProveedor.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteVentas.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteCompras.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_ventas.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteG_Clientes.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportEmpleados.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralProductos.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.P_ReporteGProveedor.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGVentas.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralCompras.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenuV2.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MenuPrincipal_beta_.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmergenteProveedor.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClienteEmergente.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductoEmergenteOriginal.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorEmergente.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FacturaORIGINAL.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClientesDeshabilitados.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.EmpleadosDeshabilitados.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductosDeshabilitados.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorDeshabilitado.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Departamentos.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.DepartamentosDeshabilitados.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Categorias.resources
+C:\Users\Anthony\Desktop\Final Proyect\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.CategoriaDeshabilitadas.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AñadirProveedor.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.CategoriaDeshabilitadas.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Categorias.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClienteEmergente.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClientesDeshabilitados.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Departamentos.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.DepartamentosDeshabilitados.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.EmpleadosDeshabilitados.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FacturaORIGINAL.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form11.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGVentas.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportProductos.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_compras.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenu.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenuV2.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MenuPrincipal_beta_.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PANTALLA.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form10.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form8.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form9.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmergenteProveedor.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmpleados.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaProveedor.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductoEmergenteOriginal.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductosDeshabilitados.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorDeshabilitado.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorEmergente.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Prueba.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.P_ReporteGProveedor.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralCompras.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteG_Clientes.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteCompras.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteVentas.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_ventas.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportEmpleados.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralProductos.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\RdlCompile.cache
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\RdlCompile.compiled
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form13.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9._Especifico__ReporteDeCompras.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ComprasDeshabilitadas.resources
+C:\Users\Anthony\Desktop\Programa final final\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_ventas.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9._Especifico__ReporteDeCompras.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AñadirProveedor.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.CategoriaDeshabilitadas.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Categorias.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClienteEmergente.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClientesDeshabilitados.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ComprasDeshabilitadas.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Departamentos.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.DepartamentosDeshabilitados.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.EmpleadosDeshabilitados.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FacturaORIGINAL.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form11.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGVentas.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form13.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportProductos.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_compras.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenu.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenuV2.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MenuPrincipal_beta_.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PANTALLA.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form10.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form8.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form9.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmergenteProveedor.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmpleados.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaProveedor.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductoEmergenteOriginal.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductosDeshabilitados.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorDeshabilitado.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorEmergente.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Prueba.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.P_ReporteGProveedor.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_ventas.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralCompras.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteG_Clientes.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteCompras.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteVentas.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_ventas.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportEmpleados.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralProductos.resources
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\RdlCompile.cache
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\RdlCompile.compiled
+C:\Users\antho\OneDrive\Escritorio\MI proyecto final 100_\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteEspecificoComprasDeshabilitadas.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9._Especifico__ReporteDeCompras.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AñadirProveedor.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.CategoriaDeshabilitadas.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Categorias.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClienteEmergente.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClientesDeshabilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ComprasDeshabilitadas.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Departamentos.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.DepartamentosDeshabilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.EmpleadosDeshabilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FacturaORIGINAL.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form11.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGVentas.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form13.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportProductos.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_compras.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenu.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenuV2.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MenuPrincipal_beta_.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PANTALLA.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form10.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form8.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form9.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmergenteProveedor.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmpleados.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaProveedor.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductoEmergenteOriginal.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductosDeshabilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorDeshabilitado.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorEmergente.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Prueba.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.P_ReporteGProveedor.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_ventas.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteEspecificoComprasDeshabilitadas.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralCompras.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteG_Clientes.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteCompras.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteVentas.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_ventas.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportEmpleados.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralProductos.resources
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\RdlCompile.cache
+C:\Users\rafael\Desktop\Anthony Files\Programa final final XDD\WindowsFormsApplication9\obj\Debug\RdlCompile.compiled
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9._Especifico__ReporteDeCompras.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AñadirProveedor.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.CategoriaDeshabilitadas.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Categorias.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClienteEmergente.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClientesDeshabilitados.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ComprasDeshabilitadas.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Departamentos.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.DepartamentosDeshabilitados.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.EmpleadosDeshabilitados.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FacturaORIGINAL.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form11.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGVentas.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form13.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportProductos.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_compras.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenu.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenuV2.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MenuPrincipal_beta_.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PANTALLA.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form10.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form8.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form9.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmergenteProveedor.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmpleados.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaProveedor.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductoEmergenteOriginal.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductosDeshabilitados.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorDeshabilitado.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorEmergente.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Prueba.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.P_ReporteGProveedor.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_ventas.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteEspecificoComprasDeshabilitadas.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralCompras.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteG_Clientes.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteCompras.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteVentas.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_ventas.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportEmpleados.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralProductos.resources
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\RdlCompile.cache
+C:\Users\rafael\Desktop\MI PROGRAMA FINAL RB\Programa final final XDD\WindowsFormsApplication9\obj\Debug\RdlCompile.compiled
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9._Especifico__ReporteDeCompras.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AñadirProveedor.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.CategoriaDeshabilitadas.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Categorias.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClienteEmergente.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClientesDeshabilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ComprasDeshabilitadas.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Departamentos.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.DepartamentosDeshabilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.EmpleadosDeshabilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FacturaORIGINAL.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form11.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGVentas.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form13.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportProductos.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_compras.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenu.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenuV2.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MenuPrincipal_beta_.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PANTALLA.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form10.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form8.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form9.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmergenteProveedor.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmpleados.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaProveedor.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductoEmergenteOriginal.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductosDeshabilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorDeshabilitado.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorEmergente.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Prueba.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.P_ReporteGProveedor.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_ventas.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteEspecificoComprasDeshabilitadas.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralCompras.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteG_Clientes.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteCompras.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteVentas.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_ventas.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportEmpleados.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralProductos.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\RdlCompile.cache
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\RdlCompile.compiled
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.manifest
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.application
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe.manifest
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.application
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_productos_habilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_productos_deshabilitados.resources
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\bin\Debug\ClassLibrary1.dll
+C:\Users\rafael\Desktop\Anthony Files\MI PROGRAMA FINAL RB\EndProgram100%\WindowsFormsApplication9\bin\Debug\ClassLibrary1.pdb
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.manifest
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.application
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\ClassLibrary1.dll
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\ClassLibrary1.pdb
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9._Especifico__ReporteDeCompras.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AñadirProveedor.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.CategoriaDeshabilitadas.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Categorias.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClienteEmergente.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClientesDeshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ComprasDeshabilitadas.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Departamentos.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.DepartamentosDeshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.EmpleadosDeshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FacturaORIGINAL.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form11.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGVentas.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form13.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportProductos.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_compras.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenu.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenuV2.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MenuPrincipal_beta_.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PANTALLA.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form10.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form8.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form9.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmergenteProveedor.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmpleados.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaProveedor.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductoEmergenteOriginal.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductosDeshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorDeshabilitado.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorEmergente.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Prueba.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.P_ReporteGProveedor.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_ventas.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteEspecificoComprasDeshabilitadas.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralCompras.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteG_Clientes.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteCompras.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteVentas.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_productos_deshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_productos_habilitados.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_ventas.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportEmpleados.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralProductos.resources
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\RdlCompile.cache
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\RdlCompile.compiled
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe.manifest
+C:\Users\ANTHO-PC\Desktop\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.application
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.config
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.pdb
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe.manifest
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.application
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.exe
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\WindowsFormsApplication9.pdb
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\ClassLibrary1.dll
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\ClassLibrary1.pdb
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csprojResolveAssemblyReference.cache
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9._Especifico__ReporteDeCompras.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.AñadirProveedor.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.CategoriaDeshabilitadas.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Categorias.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClienteEmergente.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ClientesDeshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ComprasDeshabilitadas.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Departamentos.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.DepartamentosDeshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.EmpleadosDeshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.FacturaORIGINAL.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form11.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGVentas.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form13.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportProductos.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form4.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form5.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form6.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_compras.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenu.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MainMenuV2.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.MenuPrincipal_beta_.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PANTALLA.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.LOGIN.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form10.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form8.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form9.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmergenteProveedor.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaEmpleados.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.PantallaProveedor.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductoEmergenteOriginal.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProductosDeshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorDeshabilitado.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ProveedorEmergente.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Prueba.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.P_ReporteGProveedor.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_de_ventas.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteEspecificoComprasDeshabilitadas.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralCompras.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteG_Clientes.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteCompras.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteVentas.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_productos_deshabilitados.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_productos_habilitados.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Reporte_ventas.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.RiportEmpleados.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.ReporteGeneralProductos.resources
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\RdlCompile.cache
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\RdlCompile.compiled
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.exe.manifest
+C:\Users\ANTHO-PC\Desktop\Curso\Mis trabajos finales\EndProgram100_\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.application
